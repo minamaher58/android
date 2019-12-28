@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">e-commerce</string>
+
+    <string-array name="categories">
+        <item>mobiles</item>
+        <item>laptops</item>
+        <item>tvs</item>
+        <item>tablets</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+</resources>

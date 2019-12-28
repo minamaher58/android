@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item android:id="@+id/category1" android:title="mobiles"></item>
+   <item android:id="@+id/category2" android:title="laptops"></item>
+    <item android:id="@+id/category3" android:title="tvs"></item>
+    <item android:id="@+id/category4" android:title="tablets"></item>
+</menu>
